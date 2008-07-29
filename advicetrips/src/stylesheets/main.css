@@ -14,21 +14,21 @@ b {
   margin: 20 0 0 0;
 }
 
-.header
+#header
 {
   background-image: url(../img/head_bg.jpg);
   background-repeat: repeat-y;
   padding: 10 0 10 12;
 }
 
-.sidebar
+#sidebar
 {
   float: left;
   padding: 0 0 0 10;
   width: 200;
 }
 
-.content
+#content
 {
   float: left;
   display: block;
