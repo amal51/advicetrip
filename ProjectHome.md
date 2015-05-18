@@ -1,0 +1,1 @@
+Application for test what users interact with avatars
